@@ -22,7 +22,7 @@
   "homepage": "https://github.com/RJMMOZ/BillTracker#readme",
   "dependencies": {
     "express": "^4.16.4",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "mongodb": "^3.1.10",
     "mongoose": "^5.3.14",
     "morgan": "^1.7.0",
